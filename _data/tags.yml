@@ -22,3 +22,11 @@
   name: Contrat
 - slug: react
   name: React
+- slug: design
+  name: Design
+- slug: jeu
+  name: Jeu
+- slug: ux
+  name: UX
+- slug: agile
+  name: Agile
